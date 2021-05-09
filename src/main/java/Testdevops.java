@@ -8,5 +8,7 @@ public class Testdevops {
     System.out.println("Welcome to github and jenkins integration2 ..");
     System.out.println("Hello3 ..");
     System.out.println("Welcome to github and jenkins integration3 ..");
+    System.out.println("Hello4 ..");
+    System.out.println("Welcome to github and jenkins integration4 ..");
     }
 }
